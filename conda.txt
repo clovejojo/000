@@ -1,0 +1,4 @@
+1.创建环境 conda create -n kk312 python=3.12
+2.环境切换 conda activate kk312
+3.查询 Python 环境 conda info -e
+4.删除环境 conda remove -n kk312 --all
