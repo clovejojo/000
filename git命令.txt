@@ -1,0 +1,15 @@
+1. git add 待添加的文件
+2. git commit -m "注释内容 "
+3. git push 上传到 GitHub
+4. git clone url 从版本库拉取
+5. git status	查看仓库当前的状态，显示有变更的文件。
+6. git diff	比较文件的不同，即暂存区和工作区的差异。
+7. git difftool	使用外部差异工具查看和比较文件的更改。
+8. git range-diff	比较两个提交范围之间的差异。
+9. git reset	回退版本。
+10. git rm	将文件从暂存区和工作区中删除。
+11. git mv	移动或重命名工作区文件。
+12. git notes	添加注释。
+13. git checkout	分支切换。
+14. git switch	更清晰地切换分支。
+15. git restore	恢复或撤销文件的更改。
